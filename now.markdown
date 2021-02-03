@@ -3,34 +3,30 @@ layout: default
 title: /now
 permalink: /now/
 ---
-## LIFE
+### LIFE
 
 Need to Update!
 ‍
-‍
-## WORK
+### WORK
 
 Need to Update!
 ‍
+### WHAT'S GOING WELL
 ‍
-## WHAT'S GOING WELL
+- need
+- to
+- update
+
+### WHAT'S ON MY MIND
+
+- need
+- to
+- update
+
+### LAST UPDATED
 ‍
-Need
-to
-Update
+2/1/21
 
-
-## WHAT'S ON MY MIND
+### PAGE INSPIRED BY
 ‍
-Need
-to
-Update
-
-
-## LAST UPDATED
-‍
-12/7/20
-
-
-## PAGE INSPIRED BY
-‍
+[@tylertringas](https://twitter.com/tylertringas) and the /now movement by [@Sivers](https://twitter.com/sivers)
