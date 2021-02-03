@@ -3,19 +3,23 @@ layout: default
 title: /now
 permalink: /now/
 ---
+
 ### LIFE
 
 Need to Update!
+
 ‍
 ### WORK
 
 Need to Update!
 ‍
+
 ### WHAT'S GOING WELL
 ‍
 - need
 - to
 - update
+
 
 ### WHAT'S ON MY MIND
 
@@ -23,9 +27,11 @@ Need to Update!
 - to
 - update
 
+
 ### LAST UPDATED
 ‍
 2/1/21
+
 
 ### PAGE INSPIRED BY
 ‍
