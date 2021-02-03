@@ -9,7 +9,7 @@ permalink: /work/
 Senior Data Analyst, Global Product Analytics<br>
 - Built, instrumented, and tested google analytics tagging on digital products
 - Helped rebuild tableau dashboards using new datasources
-- Managed new member of analytics team including on-boarding process and help with queries/analysis‍<br>
+- Managed new member of analytics team including on-boarding process and help with queries/analysis‍<br><
 ‍<br>
 ‍<br>
 **CARE.COM - SEPTEMBER 2017 - APRIL 2018**<br>
@@ -41,7 +41,7 @@ Analyst, Customer Analytics
 - Selected to be an analyst on Constant Contact Toolkit start-up initiative that focused on redefining Constant Contact’s product offering and positioning in the small business market
 - Implemented iteration-based A/B testing that enabled quick decision making and supported continuous product improvements
 - Performed ad-hoc analysis to better understand levers of customer conversion and retention
-- Met with CEO and senior management twice a week to present findings and make recommendations forproduct/service improvements‍<br>
+- Met with CEO and senior management twice a week to present findings and make recommendations for product/service improvements‍<br>
 ‍‍<br>‍
 ‍‍<br>
 ### WHAT I'VE STUDIED
