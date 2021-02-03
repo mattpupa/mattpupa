@@ -9,7 +9,7 @@ permalink: /work/
 Senior Data Analyst, Global Product Analytics<br>
 - Built, instrumented, and tested google analytics tagging on digital products
 - Helped rebuild tableau dashboards using new datasources
-- Managed new member of analytics team including on-boarding process and help with queries/analysis‍
+- Managed new member of analytics team including on-boarding process and help with queries/analysis‍<br>
 ‍<br><br>
 **CARE.COM - SEPTEMBER 2017 - APRIL 2018**<br>
 Senior Data Analyst<br>

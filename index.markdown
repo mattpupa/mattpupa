@@ -2,11 +2,9 @@
 layout: default
 title: home
 ---
-<br>
-<br>
-I'm Matt.
-I'm 33.<br><br><br>
-I'm a dude.
+<br><br>
+I'm Matt.<br><br><br>
+This is where I'll share what I'm up to, my work, and occasionally, some writing. Enjoy.
 
 This is a test.
 
