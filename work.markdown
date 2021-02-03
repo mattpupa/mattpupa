@@ -9,14 +9,13 @@ permalink: /work/
 Senior Data Analyst, Global Product Analytics<br>
 - Built, instrumented, and tested google analytics tagging on digital products
 - Helped rebuild tableau dashboards using new datasources
-- Managed new member of analytics team including on-boarding process and help with queries/analysis‍<br><
-‍<br>
-‍<br>
+- Managed new member of analytics team including on-boarding process and help with queries/analysis‍
+‍<br><br>
 **CARE.COM - SEPTEMBER 2017 - APRIL 2018**<br>
 Senior Data Analyst<br>
 - Partnered with website product manager to develop and analyze A/B tests that improved customer acquisition and conversion
 - Performed ad-hoc analyses on customer homepage usage and behavior that influenced customer homepage testing and product changes
-- Analyzed geographical babysitter data to help commercial back up care product line better understand coverage when pursuing partnership opportunities‍<br>
+- Analyzed geographical babysitter data to help commercial back up care product line better understand coverage when pursuing partnership opportunities‍
 ‍<br>
 ‍<br>
 **SOCIAL SEAM - APRIL 2017 - SEPTEMBER 2017**<br>
