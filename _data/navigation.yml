@@ -1,0 +1,8 @@
+- name: /now
+  link: /mattpupa/now/
+- name: about
+  link: /mattpupa/about/
+- name: work
+  link: /mattpupa/work/
+- name: writing
+  link: /mattpupa/writing/
