@@ -1,6 +1,7 @@
 ---
 layout: post
 ---
+
 Awhile back, the conversion team at my company came to our analytics team about doing testing on our website. We used to have a trial sign up form that was very long, that required 8–10 data points including name, email, industry, etc. This was overkill if you compare it to a lot of digital products today that want to get people into their UI as fast as possible.
 
 The conversion team wanted to test out a much shorter trailer form, and see what that would do to our conversion rate. We were happy to help them out, but there was one big challenge…they were hoping to do a series of 5–6 tests over the next 3 months.
