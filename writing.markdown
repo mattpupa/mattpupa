@@ -4,6 +4,13 @@ title: writing
 permalink: /writing/
 ---
 <br>
-### WRITING
+<br>
+<h3>WRITING</h3>
 
-Work in progess!
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <p><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: '%B %d, %Y' }}</p>
+    </li>
+  {% endfor %}
+</ul>
