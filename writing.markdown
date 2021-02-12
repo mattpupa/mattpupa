@@ -4,7 +4,7 @@ title: writing
 permalink: /writing/
 ---
 <br>
-### ABOUT ME
+### WRITING
 
 <ul>
   {% for post in site.posts %}
