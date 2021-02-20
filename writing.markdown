@@ -3,7 +3,6 @@ layout: default
 title: writing
 permalink: /writing/
 ---
-<br>
 ### WRITING
 
 <ul>

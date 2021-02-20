@@ -3,7 +3,6 @@ layout: default
 title: /now
 permalink: /now/
 ---
-<br>
 ### LIFE
 
 Surviving the winter.
@@ -15,4 +14,4 @@ learning jekyll.
 
 ### PAGE INSPIRED BY
 
-[@tylertringas](https://twitter.com/tylertringas) and the /now movement by [@Sivers](https://twitter.com/sivers)
+The [/now movement](https://sive.rs/nowff) by [@Sivers](https://twitter.com/sivers)
