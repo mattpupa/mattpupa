@@ -8,7 +8,7 @@ permalink: /writing/
 <ul>
   {% for post in site.posts %}
     <li>
-      <p><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: '%B %d, %Y' }}</p>
+      <p><a href="{{ post.url }}">{{ post.title }}</a></p>
     </li>
   {% endfor %}
 </ul>
