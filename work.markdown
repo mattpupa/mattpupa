@@ -3,7 +3,6 @@ layout: default
 title: work
 permalink: /work/
 ---
-<br>
 ### WHERE I'VE WORKED
 
 **PEARSON EDUCATION - SEPTEMBER 2017 - APRIL 2018**<br>
