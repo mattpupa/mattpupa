@@ -9,7 +9,7 @@ Fast to get set up for technically proficient users
 
 
 **Homepage**
-[LogRocket Homepage](/assets/images/website-homepage.png)
+![LogRocket Homepage](/assets/images/website-homepage.png)
 
 - Clean minimalistic homepage design with obvious calls to action
 - Clear description of what the software does that can be understood by technical and non technical users
