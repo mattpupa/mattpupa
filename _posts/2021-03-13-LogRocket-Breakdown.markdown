@@ -19,7 +19,7 @@ Fast to get set up for technically proficient users
 - Great first screen with a welcome message explaining that you’ll be walked through product setup
 -Welcome message is only thing on page that can grab users’ attention
 
-![LogRocket welcome screen](/assets/images/logrocket/CreateNewPRoject.png)
+![LogRocket welcome screen](/assets/images/logrocket/CreateNewProject.png)
 - Create project screen also minimal, with a clear call to action for user
 
 ![LogRocket welcome screen](/assets/images/logrocket/Install.png)
