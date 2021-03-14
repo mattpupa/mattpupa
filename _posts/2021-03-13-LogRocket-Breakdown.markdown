@@ -9,8 +9,7 @@ Fast to get set up for technically proficient users
 
 
 **Homepage**
-![LogRocket Homepage!]
-(https://drive.google.com/drive/folders/1pspYtdy_2obxlAp-A3tq4ZFBWDxqUZxD "LogRocket Homepage")
+![LogRocket Homepage!](https://drive.google.com/drive/folders/1pspYtdy_2obxlAp-A3tq4ZFBWDxqUZxD "LogRocket Homepage")
 
 - Clean minimalistic homepage design with obvious calls to action
 - Clear description of what the software does that can be understood by technical and non technical users
@@ -52,7 +51,7 @@ Opportunity to AB test left side navigation. Does showing that many options dist
 
 
 
--Good flexibility in terms of handling errors and getting notifications
--Privacy settings could use DOM explanation for non technical users
--Easy to understand pricing grid with benchmarks for higher tiers, although the plan details get cut off on right side of browser if the user doesn’t have their browser in full screen mode
--Very easy to delete user data that has requested it
+- Good flexibility in terms of handling errors and getting notifications
+- Privacy settings could use DOM explanation for non technical users
+- Easy to understand pricing grid with benchmarks for higher tiers, although the plan details get cut off on right side of browser if the user doesn’t have their browser in full screen mode
+- Very easy to delete user data that has requested it
