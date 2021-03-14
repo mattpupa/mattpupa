@@ -3,9 +3,9 @@ layout: post
 ---
 
 **Product Summary**<br>
-LogRocket is a logging and session replay software that works with Javascript apps and websites
-It’s a SaaS business model, with Good/Better/Best packaging that starts with a free tier, and graduates to custom pricing as more features and data needed
-Fast to get set up for technically proficient users
+- LogRocket is a logging and session replay software that works with Javascript apps and websites
+- It’s a SaaS business model, with Good/Better/Best packaging that starts with a free tier, and graduates to custom pricing as more features and data needed
+- Fast to get set up for technically proficient users
 
 **Homepage**
 ![LogRocket Homepage](/assets/images/logrocket/website-homepage.png)
