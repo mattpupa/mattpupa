@@ -2,21 +2,21 @@
 layout: post
 ---
 
-**Product Summardy**<br>
+**Product Summary**<br>
 LogRocket is a logging and session replay software that works with Javascript apps and websites
 It’s a SaaS business model, with Good/Better/Best packaging that starts with a free tier, and graduates to custom pricing as more features and data needed
 Fast to get set up for technically proficient users
 
 
 **Homepage**
-![LogRocket Homepage](/assets/images/website-homepage.png)
+![LogRocket Homepage](/assets/images/logrocket/website-homepage.png)
 
 - Clean minimalistic homepage design with obvious calls to action
 - Clear description of what the software does that can be understood by technical and non technical users
 - User friendly sign up form only asking for email and password, or signing up via google/github
 
 **Welcome Screens**
-
+![LogRocket welcome screen](/assets/images/logrocket/WelcomePage.png)
 - Great first screen with a welcome message explaining that you’ll be walked through product setup
 -Welcome message is only thing on page that can grab users’ attention
 
