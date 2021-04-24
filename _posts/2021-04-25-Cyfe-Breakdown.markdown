@@ -8,7 +8,7 @@ layout: post
 - Very user friendly UI
 - 100+ data integrations and 250+ metrics that can be added into dashboards
 
-**Homepage**
+**Home Page**
 ![Cyfe Homepage](/assets/images/cyfe/cyfehomepage.png)
 
 - Clean minimalistic homepage design with obvious calls to action
