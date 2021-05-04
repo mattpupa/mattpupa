@@ -5,7 +5,7 @@ permalink: /work/
 ---
 ### WHERE I'VE WORKED
 
-**PEARSON EDUCATION - SEPTEMBER 2017 - APRIL 2018**<br>
+**PEARSON EDUCATION - December 2018 - December 2019**<br>
 Senior Data Analyst, Global Product Analytics
 - Built, instrumented, and tested google analytics tagging on digital products
 - Helped rebuild tableau dashboards using new datasources
