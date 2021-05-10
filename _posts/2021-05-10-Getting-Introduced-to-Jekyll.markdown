@@ -75,5 +75,4 @@ and set up sign in authentication (will be covered in a later post).
 
 For now, I'm leaving the website half finished. I want to make sure my SaaS is
 completely functional end-to-end, before focusing on aesthetics. That means
-having a working UI and a working back end. In my next post, I'll talk more about
-the simple UI I've built so far.
+having a working UI and a working back end. In my next post, I'll start talking about firebase as a backend for the SaaS.
