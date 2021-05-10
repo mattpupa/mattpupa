@@ -22,9 +22,7 @@ niche SaaS called [Closet Tools](https://closet.tools/). It's become quite
 successful, and he's done it all by himself. He's written a few threads on it,
 but his process has been simple. Use Jekyll for a front end static website
 (HTML + CSS + JavaScript) and Firebase for a backend. What's the benefit of
-building this way? It's insanely cheap. I think he said his monthly costs were
-under $5. That was appealing to me. The Closet Tools site has a simplistic
-design. Seeing it wasn't too intimidating. I thought I may be able to do
+building this way? It's insanely cheap, and runs fast. I think he said his monthly costs were under $5. That was appealing to me. The Closet Tools site has a simplistic design. Seeing it wasn't too intimidating. I thought I may be able to do
 something similar, and incorporate python into a backend somehow. Maybe some
 type of automation tool...I wasn't too sure at that point.
 
